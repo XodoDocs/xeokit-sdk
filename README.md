@@ -1,3 +1,5 @@
+`XodoDocs` fork of `xeokit-sdk` archived by @CorreyL w/ permission from @mparizeau-pdftron
+
 # xeokit-sdk
 
 [![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/73524691/xeokit-sdk)
